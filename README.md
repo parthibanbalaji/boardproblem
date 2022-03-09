@@ -1,3 +1,3 @@
 # boardproblem
 
-1. Soltion method accepts input array and gives a result of array
+1. Solution method accepts input array and gives a result of array
